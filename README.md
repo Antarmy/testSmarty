@@ -1,4 +1,0 @@
-testSmarty
-==========
-
-test PHP Smarty
